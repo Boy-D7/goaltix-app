@@ -1,0 +1,16 @@
+{
+  "name": "GoalTix Malawi",
+  "short_name": "GoalTix",
+  "description": "Stadium Ticketing",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2563eb",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/833/833314.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
